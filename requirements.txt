@@ -1,9 +1,4 @@
-build-essential
-libgtk-3-dev
-libboost-all-dev
-freeglut3-dev
-cmake
-libopenblas-dev
+
 bcrypt==4.0.1
 beautifulsoup4==4.10.0
 bs4==0.0.1

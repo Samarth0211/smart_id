@@ -104,7 +104,6 @@ PyMsgBox==1.0.9
 pyOpenSSL==21.0.0
 pyparsing==3.0.6
 pyperclip==1.8.2
-pypiwin32==223
 PyRect==0.1.4
 PyScreeze==0.1.28
 PySocks==1.7.1
@@ -150,6 +149,5 @@ urllib3==1.26.7
 wcwidth==0.2.5
 webdriverdownloader==1.1.0.3
 Werkzeug==2.2.2
-wikipedia==1.4.0
 wsproto==1.0.0
-youtube-dl==2021.12.17
+

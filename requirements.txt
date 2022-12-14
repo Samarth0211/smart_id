@@ -1,34 +1,23 @@
 aniso8601==9.0.1
 APScheduler==3.6.3
-asgiref==3.5.2
 asttokens==2.0.8
-async-generator==1.10
 atomicwrites==1.4.0
 attrs==21.2.0
 backcall==0.2.0
-bcrypt==4.0.1
-beautifulsoup4==4.10.0
 bs4==0.0.1
-cachetools==4.2.2
 certifi==2021.10.8
 cffi==1.15.0
 chardet==4.0.0
-charset-normalizer==2.0.9
 clarifai==2.6.2
-click==8.0.3
 cmake==3.24.1
 cognitive-face==1.5.0
 colorama==0.4.5
 colorgram.py==1.2.0
 comtypes==1.1.10
 configparser==3.8.1
-contourpy==1.0.6
-cryptography==36.0.0
-cycler==0.11.0
 Cython==0.29.30
 debugpy==1.6.3
 decorator==4.4.2
-Django==4.0.4
 django-qrcode==0.3
 dlib==19.24.0
 EasyProcess==0.3
@@ -59,7 +48,6 @@ iniconfig==1.1.1
 instabot==0.117.0
 instapy==0.6.8
 ipykernel==6.16.0
-ipython==8.5.0
 itsdangerous==2.0.1
 jedi==0.18.1
 Jinja2==3.0.3
@@ -153,8 +141,6 @@ Werkzeug==2.2.2
 wikipedia==1.4.0
 wsproto==1.0.0
 youtube-dl==2021.12.17
-PS C:\Users\bhama_p3kxx5l\OneDrive\Desktop\Final Project\Smart-ID-card-main\Smart-ID-card-main\UPDATE_Final_updated_app> ^C
-PS C:\Users\bhama_p3kxx5l\OneDrive\Desktop\Final Project\Smart-ID-card-main\Smart-ID-card-main\UPDATE_Final_updated_app> pip freeze 
 aniso8601==9.0.1
 APScheduler==3.6.3
 asgiref==3.5.2
@@ -185,7 +171,6 @@ cycler==0.11.0
 Cython==0.29.30
 debugpy==1.6.3
 decorator==4.4.2
-Django==4.0.4
 django-qrcode==0.3
 dlib==19.24.0
 EasyProcess==0.3
